@@ -19,6 +19,8 @@ Hi, I'm Aasish<br>Aspiring Software Engineer<br><br>Dedicated Computer Science s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![Aasish Shrestha's Portfolio](./my_logo.svg)](https://my-portfolio-aasishshrestha2005-4197s-projects.vercel.app/)
+<a href="https://my-portfolio-aasishshrestha2005-4197s-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="./my_logo.svg" alt="Aasish Shrestha's Portfolio" width="80" />
+</a>
 
 
