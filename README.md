@@ -19,6 +19,6 @@ Hi, I'm Aasish<br>Aspiring Software Engineer<br><br>Dedicated Computer Science s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=Aasish1234&color=blue)](https://my-portfolio-aasishshrestha2005-4197s-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xo&logoColor=white)](https://my-portfolio-aasishshrestha2005-4197s-projects.vercel.app/)
 
 
